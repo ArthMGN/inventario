@@ -111658,7 +111658,7 @@ $.bly().eH(new A.aT3())
 A.i9(A.bP(0,0,1000,0,0),new A.aT4(r),t.H)},
 S(a){var s=null,r=A.a([new A.WM(),B.NI,B.NP,B.NG,new A.WQ(),new A.WO()],t.a9),q=A.uk(B.aq,s,s,!1),p=this.r
 p===$&&A.b()
-return new A.AS(p,"Inventario - Web",q,B.Jv,s,r,B.a1M,!1,new A.axK(),s)}}
+return new A.AS(p,"Inventario Online - MGN SYSTEM",q,B.Jv,s,r,B.a1M,!1,new A.axK(),s)}}
 A.aT2.prototype={
 $1(a){var s=this.a.f
 s===$&&A.b()
